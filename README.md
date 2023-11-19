@@ -2,12 +2,18 @@
 - 📖 I'm a $3^{rd}$ year BCs Computer Science and Engineering and a $2^{nd}$ year Honors Student at TU/e 
 - 📫 How to reach me: a.popescu1@student.tue.nl
 
-### Current courses (Y2024 Q1)
+### Current courses (Y2024 Q2)
+- Introduction to Cryptology
+- Data Mining and Machine Learning
+- Operating Systems
+
+### Past Courses
+Y2024
+Q1
 - Functional Programming
 - Algorithms
 - Probabilities and Statistics
 
-### Past Courses
 Y2023
 Q4
 - Computer Networks and Security
