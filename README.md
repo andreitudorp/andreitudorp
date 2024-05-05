@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📖 I'm a $3^{rd}$ year BCs Computer Science and Engineering and a $2^{nd}$ year Honors Student at TU/e 
-- 📫 How to reach me: a.popescu1@student.tue.nl
+- 📫 How to reach me: a.popescu1 at student.tue.nl
 
 ### Current courses (Y2024 Q2)
 - Introduction to Cryptology
